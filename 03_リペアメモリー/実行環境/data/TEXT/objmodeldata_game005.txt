@@ -1,0 +1,189 @@
+35
+
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building04.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building03.x
+
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+
+
+-1
+-20 0 1000
+0.0 1.57 0.0
+
+-1
+265 0 1000
+0.0 1.57 0.0
+
+-1
+500 0 1000
+0.0 1.57 0.0
+
+-1
+750 0 1000
+0.0 1.57 0.0
+
+-1
+-320 0 1000
+0.0 1.57 0.0
+
+-1
+-550 0 880
+0.0 0.0 0.0
+
+-1
+-550 0 600
+0.0 0.0 0.0
+
+-1
+-550 0 350
+0.0 0.0 0.0
+
+-1
+-550 0 100
+0.0 0.0 0.0
+
+-1
+-550 0 -170
+0.0 0.0 0.0
+
+-1
+-370 0 -330
+0.0 0.0 0.0
+
+-1
+-150 0 -330
+0.0 -1.57 0.0
+
+-1
+100 0 -330
+0.0 -1.57 0.0
+
+-1
+330 0 -330
+0.0 -1.57 0.0
+
+-1
+610 0 -330
+0.0 -1.57 0.0
+
+-1
+870 0 -330
+0.0 -1.57 0.0
+
+-1
+1100 0 -200
+0.0 -1.57 0.0
+
+-1
+1100 0 100
+0.0 3.14 0.0
+
+-1
+1100 0 315
+0.0 3.14 0.0
+
+-1
+1030 0 700
+0.0 -1.57 0.0
+
+
+-1
+-1050 0 880
+0.0 0.0 0.0
+
+-1
+-1050 0 600
+0.0 0.0 0.0
+
+-1
+-1050 0 350
+0.0 0.0 0.0
+
+-1
+-1050 0 100
+0.0 0.0 0.0
+
+-1
+-1050 0 -170
+0.0 0.0 0.0
+
+
+
+
+-1
+1500 0 1100
+0.0 0.0 0.0
+
+-1
+-900 0 1100
+0.0 0.0 0.0
+
+-1
+1450 0 -1100
+0.0 0.0 0.0
+
+-1
+-900 0 -900
+0.0 0.0 0.0
+
+
+
+-1
+-20 0 -1000
+0.0 1.57 0.0
+
+-1
+265 0 -1000
+0.0 1.57 0.0
+
+-1
+500 0 -1000
+0.0 1.57 0.0
+
+-1
+750 0 -1000
+0.0 1.57 0.0
+
+-1
+-320 0 -1000
+0.0 1.57 0.0
+
+-1
+1050 0 -1000
+0.0 1.57 0.0
+
+

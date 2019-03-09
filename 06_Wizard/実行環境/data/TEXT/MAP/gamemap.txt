@@ -1,0 +1,11 @@
+SCRIPT	# 絶対書く
+
+NUM_MODEL = 2	# 最大パーツ数
+
+#========================================
+# モデルファイル名
+#========================================
+MODEL_FILENAME = data\MODEL\MAP\warp.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+
+END_SCRIPT	# 絶対書く

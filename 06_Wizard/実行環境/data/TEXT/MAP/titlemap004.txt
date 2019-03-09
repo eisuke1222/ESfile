@@ -1,0 +1,775 @@
+SCRIPT	# 絶対書く
+
+NUM_MODEL = 95	# 最大パーツ数
+
+#========================================
+# モデルファイル名
+#========================================
+MODEL_FILENAME = data\MODEL\MAP\house.x
+MODEL_FILENAME = data\MODEL\MAP\bench.x
+MODEL_FILENAME = data\MODEL\MAP\fire.x
+MODEL_FILENAME = data\MODEL\MAP\warp.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\fence.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+MODEL_FILENAME = data\MODEL\MAP\tree.x
+
+#================================================================================
+
+CHARACTERSET		# キャラクター設定開始
+
+	PARTSSET		# パーツ番号[0]
+		INDEX = 0					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 0.00 0.00 100.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[1]
+		INDEX = 1					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 0.00 0.00 15.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[2]
+		INDEX = 2					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 0.00 0.00 -30.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[3]
+		INDEX = 3					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 100.00 0.00 -150.00		# 位置
+		ROT = 0.00 3.14 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[4]
+		INDEX = 4					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 0.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[5]
+		INDEX = 5					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 40.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[6]
+		INDEX = 6					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 -40.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[7]
+		INDEX = 7					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 -80.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[8]
+		INDEX = 8					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 -120.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[9]
+		INDEX = 9					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 -160.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[10]
+		INDEX = 10					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 80.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[11]
+		INDEX = 11					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 120.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[12]
+		INDEX = 12					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 150.00 0.00 160.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[13]
+		INDEX = 13					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 170.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[14]
+		INDEX = 14					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 210.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[15]
+		INDEX = 15					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 250.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[16]
+		INDEX = 16					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 290.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[17]
+		INDEX = 17					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 330.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[18]
+		INDEX = 18					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 370.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[19]
+		INDEX = 19					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 410.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[20]
+		INDEX = 20					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 450.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[21]
+		INDEX = 21					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 490.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[22]
+		INDEX = 22					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 530.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[23]
+		INDEX = 23					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 570.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[24]
+		INDEX = 24					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 610.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[25]
+		INDEX = 25					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 650.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[26]
+		INDEX = 26					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 690.00 0.00 180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[27]
+		INDEX = 27					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 160.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[28]
+		INDEX = 28					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 120.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[29]
+		INDEX = 29					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 80.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[30]
+		INDEX = 30					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 40.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[31]
+		INDEX = 31					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 0.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[32]
+		INDEX = 32					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 -40.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[33]
+		INDEX = 33					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 -80.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[34]
+		INDEX = 34					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 -120.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[35]
+		INDEX = 35					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 710.00 0.00 -160.00		# 位置
+		ROT = 0.00 1.57 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[36]
+		INDEX = 36					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 690.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[37]
+		INDEX = 37					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 650.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[38]
+		INDEX = 38					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 610.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[39]
+		INDEX = 39					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 570.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[40]
+		INDEX = 40					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 530.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[41]
+		INDEX = 41					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 490.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[42]
+		INDEX = 42					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 450.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[43]
+		INDEX = 43					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 410.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[44]
+		INDEX = 44					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 370.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[45]
+		INDEX = 45					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 330.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[46]
+		INDEX = 46					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 290.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[47]
+		INDEX = 47					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 250.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[48]
+		INDEX = 48					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 210.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[49]
+		INDEX = 49					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 170.00 0.00 -180.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[50]
+		INDEX = 50					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 680.00 0.00 280.00		# 位置
+		ROT = 0.00 1.30 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[51]
+		INDEX = 51					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 635.00 0.00 380.00		# 位置
+		ROT = 0.00 2.32 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[52]
+		INDEX = 52					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 575.00 0.00 295.00		# 位置
+		ROT = 0.00 2.82 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[53]
+		INDEX = 53					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 470.00 0.00 335.00		# 位置
+		ROT = 0.00 3.28 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[54]
+		INDEX = 54					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 540.00 0.00 460.00		# 位置
+		ROT = 0.00 3.86 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[55]
+		INDEX = 55					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 435.00 0.00 460.00		# 位置
+		ROT = 0.00 4.60 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[56]
+		INDEX = 56					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 410.00 0.00 360.00		# 位置
+		ROT = 0.00 5.10 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[57]
+		INDEX = 57					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 300.00 0.00 300.00		# 位置
+		ROT = 0.00 6.24 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[58]
+		INDEX = 58					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 265.00 0.00 415.00		# 位置
+		ROT = 0.00 7.80 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[59]
+		INDEX = 59					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 320.00 0.00 510.00		# 位置
+		ROT = 0.00 8.34 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[60]
+		INDEX = 60					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 230.00 0.00 520.00		# 位置
+		ROT = 0.00 9.42 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[61]
+		INDEX = 61					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 155.00 0.00 405.00		# 位置
+		ROT = 0.00 10.10 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[62]
+		INDEX = 62					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 205.00 0.00 320.00		# 位置
+		ROT = 0.00 12.92 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[63]
+		INDEX = 63					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 70.00 0.00 380.00		# 位置
+		ROT = 0.00 13.54 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[64]
+		INDEX = 64					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 155.00 0.00 590.00		# 位置
+		ROT = 0.00 14.66 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[65]
+		INDEX = 65					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 45.00 0.00 590.00		# 位置
+		ROT = 0.00 15.28 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[66]
+		INDEX = 66					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 5.00 0.00 485.00		# 位置
+		ROT = 0.00 17.36 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[67]
+		INDEX = 67					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -30.00 0.00 320.00		# 位置
+		ROT = 0.00 19.02 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[68]
+		INDEX = 68					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -85.00 0.00 480.00		# 位置
+		ROT = 0.00 19.94 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[69]
+		INDEX = 69					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -120.00 0.00 590.00		# 位置
+		ROT = 0.00 20.74 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[70]
+		INDEX = 70					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -195.00 0.00 515.00		# 位置
+		ROT = 0.00 21.26 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[71]
+		INDEX = 71					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -130.00 0.00 410.00		# 位置
+		ROT = 0.00 22.46 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[72]
+		INDEX = 72					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -170.00 0.00 290.00		# 位置
+		ROT = 0.00 24.32 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[73]
+		INDEX = 73					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -175.00 0.00 155.00		# 位置
+		ROT = 0.00 26.06 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[74]
+		INDEX = 74					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -275.00 0.00 260.00		# 位置
+		ROT = 0.00 27.18 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[75]
+		INDEX = 75					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -225.00 0.00 410.00		# 位置
+		ROT = 0.00 27.86 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[76]
+		INDEX = 76					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -330.00 0.00 490.00		# 位置
+		ROT = 0.00 28.38 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[77]
+		INDEX = 77					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -355.00 0.00 395.00		# 位置
+		ROT = 0.00 28.98 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[78]
+		INDEX = 78					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -285.00 0.00 325.00		# 位置
+		ROT = 0.00 30.96 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[79]
+		INDEX = 79					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -380.00 0.00 240.00		# 位置
+		ROT = 0.00 31.82 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[80]
+		INDEX = 80					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -320.00 0.00 160.00		# 位置
+		ROT = 0.00 32.94 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[81]
+		INDEX = 81					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -210.00 0.00 55.00		# 位置
+		ROT = 0.00 34.46 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[82]
+		INDEX = 82					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -265.00 0.00 50.00		# 位置
+		ROT = 0.00 35.04 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[83]
+		INDEX = 83					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -380.00 0.00 55.00		# 位置
+		ROT = 0.00 36.22 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[84]
+		INDEX = 84					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -280.00 0.00 -90.00		# 位置
+		ROT = 0.00 37.04 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[85]
+		INDEX = 85					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -350.00 0.00 -90.00		# 位置
+		ROT = 0.00 37.74 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[86]
+		INDEX = 86					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -320.00 0.00 -180.00		# 位置
+		ROT = 0.00 39.70 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[87]
+		INDEX = 87					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -410.00 0.00 -180.00		# 位置
+		ROT = 0.00 40.76 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[88]
+		INDEX = 88					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -450.00 0.00 -65.00		# 位置
+		ROT = 0.00 41.84 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[89]
+		INDEX = 89					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -220.00 0.00 -190.00		# 位置
+		ROT = 0.00 43.42 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[90]
+		INDEX = 90					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -195.00 0.00 -65.00		# 位置
+		ROT = 0.00 45.28 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[91]
+		INDEX = 91					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -270.00 0.00 -265.00		# 位置
+		ROT = 0.00 48.50 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[92]
+		INDEX = 92					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -355.00 0.00 -265.00		# 位置
+		ROT = 0.00 49.28 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[93]
+		INDEX = 93					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -455.00 0.00 110.00		# 位置
+		ROT = 0.00 51.78 0.00		# 向き
+	END_PARTSSET
+
+	PARTSSET		# パーツ番号[94]
+		INDEX = 94					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = -455.00 0.00 305.00		# 位置
+		ROT = 0.00 52.76 0.00		# 向き
+	END_PARTSSET
+
+END_CHARACTERSET	# キャラクター設定終了
+
+END_SCRIPT	# 絶対書く

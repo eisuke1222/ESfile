@@ -1,0 +1,15 @@
+EFFECTSET_STATE
+
+	POSRANGE  = 2.0 2.0 0.0			# 位置の範囲
+	ROT       = 0.0 0.0 0.0			# 向き
+	SIZE      = 3.0 3.0 0.0			# 大きさ
+	MOVE      = 1.0 2.0 0.0			# 動き
+	COL       = 1.0 0.1 0.1 1.0		# 色
+	TEXUV     = 1.0 1.0				# UV
+	PRIGONMAX = 8					# ポリゴンの数
+	GRAVITY   = 0.0					# 重力
+	LIFE      = 60					# 体力
+	BILLTYPE  = 1					# 加算合成ない[0]ある[1]
+	
+EFFECT_END
+

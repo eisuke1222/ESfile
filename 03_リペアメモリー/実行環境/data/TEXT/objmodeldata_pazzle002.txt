@@ -1,0 +1,8 @@
+1
+
+data\MODEL\Pazzle\MBwaku.x
+
+
+-1
+-150.0 0.0 -80.0
+0.0 0.0 0.0

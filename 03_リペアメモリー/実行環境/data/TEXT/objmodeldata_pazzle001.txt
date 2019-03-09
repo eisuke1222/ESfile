@@ -1,0 +1,96 @@
+15
+
+data\MODEL\Pazzle\gear0001.x
+data\MODEL\Pazzle\gear0101.x
+data\MODEL\Pazzle\gear0001.x
+data\MODEL\Pazzle\gear0101.x
+
+data\MODEL\Pazzle\gear0000.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+
+data\MODEL\Pazzle\MBSPIN.x
+data\MODEL\Pazzle\MBDown.x
+
+
+-1
+150.0 60.0 -230.0
+0.0 0.0 0.0
+
+-1
+10.0 60.0 -170.0
+0.0 0.0 0.0
+
+-1
+-110.0 60.0 -80.0
+0.0 0.0 0.0
+
+-1
+-110.0 60.0 70.0
+0.0 0.78 0.0
+
+
+
+-1
+60.0 60.0 80.0
+0.0 0.78 0.0
+
+-1
+150.0 60.0 -100.0
+0.0 0.78 0.0
+
+-1
+150.0 60.0 -10.0
+0.0 0.78 0.0
+
+-1
+150.0 60.0 80.0
+0.0 0.0 0.0
+
+
+
+-1
+-200.0 60.0 -170.0
+0.0 0.78 0.0
+
+
+
+-1
+-250.0 60.0 -90.0
+0.0 -0.3 0.0
+
+-1
+-250.0 60.0 15.0
+0.0 0.0 0.0
+
+
+
+-1
+-200.0 60.0 -270.0
+0.0 0.78 0.0
+
+-1
+-110.0 60.0 -270.0
+0.0 0.0 0.0
+
+
+
+-1
+-460.0 120.0 60.0
+0.0 0.0 0.0
+
+-1
+-430.0 60.0 -150.0
+0.0 0.0 0.0
+

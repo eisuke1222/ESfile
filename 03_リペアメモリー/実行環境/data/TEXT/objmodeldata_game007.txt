@@ -1,0 +1,348 @@
+62
+
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building03.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\car.x
+data\MODEL\Map\car.x
+
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building03.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building03.x
+
+
+data\MODEL\Map\car02.x
+data\MODEL\Map\car02.x
+
+
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+
+
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+
+
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+data\MODEL\Map\ki.x
+
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+data\MODEL\Map\gaitou.x
+
+-1
+-1680 0 1000
+0.0 1.57 0.0
+
+-1
+-1450 0 1000
+0.0 1.57 0.0
+
+-1
+-1220 0 1000
+0.0 1.57 0.0
+
+-1
+-1680 0 600
+0.0 1.57 0.0
+
+-1
+-1400 0 200
+0.0 -1.57 0.0
+
+-1
+-1000 0 770
+0.0 3.14 0.0
+
+-1
+-1000 0 500
+0.0 3.14 0.0
+
+-1
+-1200 0 200		
+0.0 -1.57 0.0
+
+-1
+-1110 0 200		
+0.0 -1.57 0.0
+
+
+
+-1
+-1680 0 -500
+0.0 1.57 0.0
+
+-1
+-1450 0 -500
+0.0 1.57 0.0
+
+-1
+-1220 0 -500
+0.0 1.57 0.0
+
+-1
+-1680 0 -800
+0.0 1.57 0.0
+
+-1
+-1150 0 -750
+0.0 3.14 0.0
+
+-1
+-1680 0 -1100
+0.0 -1.57 0.0
+
+-1
+-1450 0 -1100
+0.0 -1.57 0.0
+
+-1
+-1220 0 -1100
+0.0 -1.57 0.0
+
+
+
+-1
+200 0 1000
+0.0 1.57 0.0
+
+-1
+430 0 1000
+0.0 1.57 0.0
+
+-1
+660 0 1000
+0.0 1.57 0.0
+
+-1
+950 0 1000
+0.0 1.57 0.0
+
+-1
+100 0 770
+0.0 0.0 0.0
+
+-1
+100 0 500
+0.0 0.0 0.0
+
+-1
+100 0 220
+0.0 0.0 0.0
+
+-1
+200 0 0
+0.0 -1.57 0.0
+
+-1
+650 0 0
+0.0 0.0 0.0
+
+-1
+1200 0 700
+0.0 -1.57 0.0
+-1
+1200 0 400
+0.0 -3.14 0.0
+
+-1
+1200 0 170
+0.0 -3.14 0.0
+
+
+
+-1
+200 0 -500
+0.0 1.57 0.0
+
+-1
+430 0 -500
+0.0 1.57 0.0
+
+-1
+660 0 -500
+0.0 1.57 0.0
+
+-1
+900 0 -500
+0.0 1.57 0.0
+
+-1
+200 0 -800
+0.0 1.57 0.0
+
+-1
+330 0 -1100
+0.0 -1.57 0.0
+
+-1
+700 0 -1100
+0.0 -1.57 0.0
+
+-1
+1150 0 -950
+0.0 -1.57 0.0
+
+-1
+850 0 -1100
+0.0 -1.57 0.0
+
+-1
+940 0 -1100
+0.0 -1.57 0.0
+
+
+
+
+
+
+
+-1
+-500 0 -150
+0.0 -1.57 0.0
+
+-1
+-1040 0 -130
+0.0 -1.57 0.0
+
+-1
+-1340 0 -130
+0.0 -1.57 0.0
+
+-1
+-1540 0 -130
+0.0 -1.57 0.0
+
+-1
+-1700 0 -130
+0.0 -1.57 0.0
+
+
+
+-1
+-1900 0 -50
+0.0 -1.57 0.0
+
+-1
+-1900 0 -200
+0.0 -1.57 0.0
+
+
+
+-1
+-600 0 -100
+0.0 -1.57 0.0
+
+-1
+-600 0 -200
+0.0 -1.57 0.0
+
+-1
+-400 0 -100
+0.0 -1.57 0.0
+
+-1
+-400 0 -200
+0.0 -1.57 0.0
+
+
+
+
+-1
+-500 0 1000
+0.0 -1.57 0.0
+
+-1
+-500 0 800
+0.0 -1.57 0.0
+
+
+-1
+-500 0 400
+0.0 -1.57 0.0
+
+-1
+-500 0 200
+0.0 -1.57 0.0
+
+
+-1
+-500 0 -1200
+0.0 -1.57 0.0
+
+-1
+-500 0 -1000
+0.0 -1.57 0.0
+
+
+-1
+-500 0 -800
+0.0 -1.57 0.0
+
+-1
+-500 0 -600
+0.0 -1.57 0.0
+
+
+-1
+-600 0 -1300
+0.0 -1.57 0.0
+
+-1
+-600 0 1000
+0.0 -1.57 0.0
+
+-1
+-400 0 1000
+0.0 -1.57 0.0
+
+-1
+-400 0 -1300
+0.0 -1.57 0.0

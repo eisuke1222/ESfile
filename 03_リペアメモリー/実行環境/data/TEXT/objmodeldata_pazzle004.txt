@@ -1,0 +1,85 @@
+15
+
+data\MODEL\Pazzle\gear0201.x
+data\MODEL\Pazzle\gear0101.x
+data\MODEL\Pazzle\gear0201.x
+data\MODEL\Pazzle\gear0001.x
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0300.x
+data\MODEL\Pazzle\gear0101.x
+data\MODEL\Pazzle\gear0300.x
+data\MODEL\Pazzle\gear0000.x
+
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0100.x
+
+data\MODEL\Pazzle\gear0300.x
+
+data\MODEL\Pazzle\gear0001.x
+
+
+-1
+-370.0 70.0 -60.0
+0.0 0.0 0.0
+
+-1
+-250.0 70.0 30.0
+0.0 0.0 0.0
+
+-1
+-130.0 70.0 -60.0
+0.0 0.0 0.0
+
+-1
+-250.0 70.0 -150.0
+0.0 0.0 0.0
+
+
+-1
+-440.0 70.0 -230.0
+0.0 0.0 0.0
+
+-1
+-380.0 70.0 -300.0
+0.0 0.0 0.0
+
+-1
+-250.0 70.0 -300.0
+0.0 0.78 0.0
+
+-1
+-120.0 70.0 -300.0
+0.0 0.0 0.0
+
+-1
+-60.0 70.0 -230.0
+0.0 0.0 0.0
+
+
+
+-1
+-10.0 70.0 -300.0
+0.0 0.78 0.0
+
+-1
+40.0 70.0 -230.0
+0.0 0.78 0.0
+
+-1
+90.0 70.0 -160.0
+0.0 0.78 0.0
+
+-1
+40.0 70.0 -90.0
+0.0 0.0 0.0
+
+-1
+100.0 70.0 -10.0
+0.0 0.0 0.0
+
+-1
+10.0 70.0 90.0
+0.0 0.0 0.0

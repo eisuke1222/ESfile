@@ -1,0 +1,316 @@
+SCRIPT		# 読み取りを開始
+	#--------------------------------------------
+	# 敵設定
+	#--------------------------------------------
+	
+	ENEMY_SET		# 敵設定を開始
+		#----------------------------------------
+		# 設定項目
+		# 1 : モデル番号
+		# 2 : 位置
+		# 3 : 向き
+		
+		# モデル種類
+		# 0 : S_1
+		# 1 : S_2
+		# 2 : G_1
+		# 3 : G_2
+		# 4 : O_1
+		# 5 : O_2
+		#----------------------------------------
+		
+		
+		# y
+		# 300 700
+		# 300 1400
+		
+		#=================================
+		# 海
+
+		# No : 0
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 0.0 300.0 1000.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 1
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= -200.0 300.0 1400.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 2
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 200.0 300.0 1800.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 3
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= 0.0 0.0 2800.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 75
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 4
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= -300.0 0.0 3500.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 75
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 5
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= 300.0 0.0 4200.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 75
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 6
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= -300.0 0.0 4900.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 75
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 7
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= -200.0 300.0 5200.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 8
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 200.0 300.0 5600.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 9
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 0.0 300.0 6000.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 10
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= -150.0 300.0 6100.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 11
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 150.0 300.0 6100.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 300.0 300.0 6700.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= -300.0 300.0 6900.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= -300.0 300.0 7100.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 300.0 300.0 7300.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 0						# モデル番号
+			POS 		= 300.0 300.0 7500.0		# 位置
+			MOVE 		= -3.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= -300.0 0.0 8000.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 70
+		END_MODEL_SET	# モデル設定を終了	
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 4						# モデル番号
+			POS 		= -160.0 0.0 8200.0		# 位置
+			MOVE 		= 0.0 0.0 -3.2			# 向き
+			SHOT		= 70
+		END_MODEL_SET	# モデル設定を終了
+		
+		
+		#==================================
+		# 陸
+		
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= -200.0 10.0 9400.0		# 位置
+			MOVE 		= 0.0 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 200.0 10.0 9400.0		# 位置
+			MOVE 		= 0.0 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= -190.0 10.0 9550.0		# 位置
+			MOVE 		= 0.0 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 190.0 10.0 9550.0		# 位置
+			MOVE 		= 0.0 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 3						# モデル番号
+			POS 		= 0.0 10.0 10000.0		# 位置
+			MOVE 		= -3.35 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 3						# モデル番号
+			POS 		= 0.0 10.0 10800.0		# 位置
+			MOVE 		= -3.35 0.0 -3.35			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 0.0 10.0 11700.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= -100.0 10.0 11800.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 100.0 10.0 11800.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 0.0 10.0 12500.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了		
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= -100.0 10.0 12500.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 2						# モデル番号
+			POS 		= 100.0 10.0 12500.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 65
+		END_MODEL_SET	# モデル設定を終了		
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 1						# モデル番号
+			POS 		= 0.0 300.0 12950.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 1						# モデル番号
+			POS 		= -150.0 300.0 13000.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 1						# モデル番号
+			POS 		= 150.0 300.0 13000.0		# 位置
+			MOVE 		= 0.0 0.0 -3.5			# 向き
+			SHOT		= 60
+		END_MODEL_SET	# モデル設定を終了
+		
+		# No : 12
+		MODEL_SET		# モデル設定を開始
+			ENEMY_NUM 	= 6						# モデル番号
+			POS 		= 300.0 0.0 15000.0		# 位置
+			MOVE 		= 0.0 0.0 -3.4			# 向き
+			SHOT		= 70
+		END_MODEL_SET	# モデル設定を終了
+		
+	END_ENEMY_SET		# マップ設定を終了
+END_SCRIPT		# 読み取りを開始

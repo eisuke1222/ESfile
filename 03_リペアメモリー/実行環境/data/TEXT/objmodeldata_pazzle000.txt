@@ -1,0 +1,43 @@
+8
+
+data\MODEL\Pazzle\gear0000.x
+data\MODEL\Pazzle\gear0100.x
+data\MODEL\Pazzle\gear0200.x
+data\MODEL\Pazzle\gear0300.x
+data\MODEL\Pazzle\gear0001.x
+data\MODEL\Pazzle\gear0101.x
+data\MODEL\Pazzle\MBSPIN.x
+data\MODEL\Pazzle\MBDown.x
+
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0
+
+-1
+0.0 200.0 0.0
+0.0 0.0 0.0

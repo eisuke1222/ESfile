@@ -1,0 +1,223 @@
+44
+
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building03.x
+data\MODEL\Map\building03.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building02.x
+data\MODEL\Map\building00.x
+data\MODEL\Map\building05.x
+data\MODEL\Map\building04.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building06.x
+data\MODEL\Map\building08.x
+data\MODEL\Map\building03.x
+
+-1
+-700 0 -1100
+0.0 -1.57 0.0
+
+-1
+-460 0 -1100
+0.0 -1.57 0.0
+
+-1
+-930 0 -1050
+0.0 0.0 0.0
+
+-1
+-930 0 -830
+0.0 0.0 0.0
+
+-1
+-730 0 -800
+0.0 1.57 0.0
+
+-1
+-480 0 -800
+0.0 1.57 0.0
+
+-1
+-260 0 -850
+0.0 3.14 0.0
+
+-1
+-260 0 -1050
+0.0 3.14 0.0
+
+-1
+500 0 -1100
+0.0 -1.57 0.0
+
+-1
+720 0 -1100
+0.0 -1.57 0.0
+
+-1
+270 0 -1050
+0.0 0.0 0.0
+
+-1
+270 0 -830
+0.0 0.0 0.0
+
+-1
+470 0 -800
+0.0 1.57 0.0
+
+-1
+720 0 -800
+0.0 1.57 0.0
+
+-1
+940 0 -850
+0.0 3.14 0.0
+
+-1
+940 0 -1050
+0.0 3.14 0.0
+
+-1
+-700 0 1100
+0.0 1.57 0.0
+
+-1
+-460 0 1100
+0.0 1.57 0.0
+
+-1
+-930 0 1050
+0.0 0.0 0.0
+
+-1
+-930 0 830
+0.0 0.0 0.0
+
+-1
+-730 0 800
+0.0 -1.57 0.0
+
+-1
+-480 0 800
+0.0 -1.57 0.0
+
+-1
+-260 0 850
+0.0 3.14 0.0
+
+-1
+-260 0 1050
+0.0 3.14 0.0
+
+-1
+500 0 1100
+0.0 1.57 0.0
+
+-1
+720 0 1100
+0.0 1.57 0.0
+
+-1
+270 0 1050
+0.0 0.0 0.0
+
+-1
+270 0 830
+0.0 0.0 0.0
+
+-1
+470 0 800
+0.0 -1.57 0.0
+
+-1
+720 0 800
+0.0 -1.57 0.0
+
+-1
+940 0 850
+0.0 3.14 0.0
+
+-1
+940 0 1050
+0.0 3.14 0.0
+
+-1
+940 0 -150
+0.0 0.0 0.0
+
+-1
+960 0 150
+0.0 3.14 0.0
+
+-1
+490 0 -160
+0.0 0.0 0.0
+
+-1
+100 0 -160
+0.0 0.0 0.0
+
+-1
+-230 0 -180
+0.0 -1.57 0.0
+
+-1
+-480 0 -180
+0.0 -1.57 0.0
+
+-1
+-700 0 -180
+0.0 -1.57 0.0
+
+-1
+-850 0 -40
+0.0 -1.57 0.0
+
+-1
+480 0 170
+0.0 1.57 0.0
+
+-1
+200 0 170
+0.0 1.57 0.0
+
+-1
+-120 0 170
+0.0 3.14 0.0
+
+-1
+-600 0 150
+0.0 3.14 0.0
+

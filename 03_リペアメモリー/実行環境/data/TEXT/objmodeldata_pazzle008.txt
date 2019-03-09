@@ -1,0 +1,8 @@
+1
+
+data\MODEL\Pazzle\zenmaikata.x
+
+
+-1
+-150.0 0.0 -150.0
+0.0 0.0 0.0

@@ -1,0 +1,13 @@
+NUM_TEXT = 12
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/川用エフェクト/effect_sea.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/effect_block.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/煙エフェクト/effect_smoke.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/effect_wood.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/木の葉エフェクト/effect_konoha.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/ジャンプ煙/effect_jump.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/スピードUPエフェクト/effect_speedup.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/コイン用エフェクト/effect_coin.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/ハート用エフェクト/effect_heart.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/敵消えるエフェクト/effect_water.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/敵消えるエフェクト/effect_smoke.txt
+TEXT_NAME = data/TEXT/EFFECT/EFFECT_TYPE/汗エフェクト/effect_ase.txt

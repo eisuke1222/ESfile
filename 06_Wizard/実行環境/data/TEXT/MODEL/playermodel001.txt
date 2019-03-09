@@ -1,0 +1,43 @@
+SCRIPT	# 絶対書く
+
+#================================================================================
+
+NUM_MODEL = 3	# 最大パーツ数
+
+#========================================
+# モデルファイル名
+#========================================
+MODEL_FILENAME = data\MODEL\CHARACTER\PLAYER\stone001.x
+MODEL_FILENAME = data\MODEL\CHARACTER\PLAYER\stone001.x
+MODEL_FILENAME = data\MODEL\CHARACTER\PLAYER\stone001.x
+
+#================================================================================
+
+CHARACTERSET		# キャラクター設定開始
+
+	PARTSSET		# パーツ番号[0]
+		INDEX = 0					# モデル番号
+		PARENT = -1					# 親モデル番号
+		POS = 0.00 0.00 0.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+	
+	PARTSSET		# パーツ番号[1]
+		INDEX = 1					# モデル番号
+		PARENT = 0					# 親モデル番号
+		POS = -30.00 30.00 0.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+	
+	PARTSSET		# パーツ番号[2]
+		INDEX = 2					# モデル番号
+		PARENT = 0					# 親モデル番号
+		POS = 30.00 30.00 0.00		# 位置
+		ROT = 0.00 0.00 0.00		# 向き
+	END_PARTSSET
+	
+END_CHARACTERSET	# キャラクター設定終了
+
+#================================================================================
+
+END_SCRIPT	# 絶対書く

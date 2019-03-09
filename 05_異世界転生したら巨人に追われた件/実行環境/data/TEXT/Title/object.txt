@@ -1,0 +1,486 @@
+BLOCK_MAX = 300
+
+#-------------------------------------------------
+#	ブロックの設定[MODELTYPE]
+#	[0] 岩
+#	[1] 木1
+#	[2] 木2
+#	[3] 空中床
+#	[4]	すべる床
+#	[5] 丸太
+#	[6] シーソー
+#	[7] つた
+#	[8] つた2
+#	[9] 木ブロック
+#
+#	判定の設定[COLTYPE]
+#	[0] なし
+#	[1] 四角
+#	[2] 押す
+#	[3] 破壊
+#	[4]	空中
+#	[5] 滑る
+#	[6] 倒れる
+#	[7] シーソー
+#	[8] 登る
+#-------------------------------------------------
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 0 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 60 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 110 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 160 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 210 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 260 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 310 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 360 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 410 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 460 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -460 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -410 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -360 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -310 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -260 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -210 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -160 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -110 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -60 10 0
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 0 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 60 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 110 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 170 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 220 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 270 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 320 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 370 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 420 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 470 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -450 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -400 10 60
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -350 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -300 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -250 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -200 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -150 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -100 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -50 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 0 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 70 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 120 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 170 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 220 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 270 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 320 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 370 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 420 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = 470 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -450 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -400 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -350 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -300 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -250 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -200 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -150 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -100 10 120
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
+BLOCK_SET  # [ 0 ]
+
+	POS = -50 10 10
+	MODELTYPE =  2
+	COLTYPE = 0
+
+BLOCK_END
+
